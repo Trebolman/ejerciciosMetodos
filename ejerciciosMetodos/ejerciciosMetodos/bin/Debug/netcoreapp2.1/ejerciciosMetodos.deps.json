@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "ejerciciosMetodos/1.0.0": {
+        "dependencies": {
+          "Notas": "1.0.0"
+        },
+        "runtime": {
+          "ejerciciosMetodos.dll": {}
+        }
+      },
+      "Notas/1.0.0": {
+        "runtime": {
+          "Notas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ejerciciosMetodos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Notas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

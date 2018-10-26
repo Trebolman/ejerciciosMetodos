@@ -1,0 +1,14 @@
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\ejerciciosMetodos\ejerciciosMetodos\ejerciciosMetodos\obj\Debug\netcoreapp2.1\ejerciciosMetodos.csprojAssemblyReference.cache
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\ejerciciosMetodos\ejerciciosMetodos\ejerciciosMetodos\obj\Debug\netcoreapp2.1\ejerciciosMetodos.csproj.CoreCompileInputs.cache
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\ejerciciosMetodos\ejerciciosMetodos\ejerciciosMetodos\obj\Debug\netcoreapp2.1\ejerciciosMetodos.AssemblyInfoInputs.cache
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\ejerciciosMetodos\ejerciciosMetodos\ejerciciosMetodos\obj\Debug\netcoreapp2.1\ejerciciosMetodos.AssemblyInfo.cs
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\ejerciciosMetodos\ejerciciosMetodos\ejerciciosMetodos\bin\Debug\netcoreapp2.1\ejerciciosMetodos.deps.json
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\ejerciciosMetodos\ejerciciosMetodos\ejerciciosMetodos\bin\Debug\netcoreapp2.1\ejerciciosMetodos.runtimeconfig.json
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\ejerciciosMetodos\ejerciciosMetodos\ejerciciosMetodos\bin\Debug\netcoreapp2.1\ejerciciosMetodos.runtimeconfig.dev.json
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\ejerciciosMetodos\ejerciciosMetodos\ejerciciosMetodos\bin\Debug\netcoreapp2.1\ejerciciosMetodos.dll
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\ejerciciosMetodos\ejerciciosMetodos\ejerciciosMetodos\bin\Debug\netcoreapp2.1\ejerciciosMetodos.pdb
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\ejerciciosMetodos\ejerciciosMetodos\ejerciciosMetodos\bin\Debug\netcoreapp2.1\Notas.dll
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\ejerciciosMetodos\ejerciciosMetodos\ejerciciosMetodos\bin\Debug\netcoreapp2.1\Notas.pdb
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\ejerciciosMetodos\ejerciciosMetodos\ejerciciosMetodos\obj\Debug\netcoreapp2.1\ejerciciosMetodos.csproj.CopyComplete
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\ejerciciosMetodos\ejerciciosMetodos\ejerciciosMetodos\obj\Debug\netcoreapp2.1\ejerciciosMetodos.dll
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\ejerciciosMetodos\ejerciciosMetodos\ejerciciosMetodos\obj\Debug\netcoreapp2.1\ejerciciosMetodos.pdb

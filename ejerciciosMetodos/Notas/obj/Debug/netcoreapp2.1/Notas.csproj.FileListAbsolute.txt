@@ -1,0 +1,9 @@
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\ejerciciosMetodos\ejerciciosMetodos\Notas\obj\Debug\netcoreapp2.1\Notas.csprojAssemblyReference.cache
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\ejerciciosMetodos\ejerciciosMetodos\Notas\obj\Debug\netcoreapp2.1\Notas.csproj.CoreCompileInputs.cache
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\ejerciciosMetodos\ejerciciosMetodos\Notas\obj\Debug\netcoreapp2.1\Notas.AssemblyInfoInputs.cache
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\ejerciciosMetodos\ejerciciosMetodos\Notas\obj\Debug\netcoreapp2.1\Notas.AssemblyInfo.cs
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\ejerciciosMetodos\ejerciciosMetodos\Notas\bin\Debug\netcoreapp2.1\Notas.deps.json
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\ejerciciosMetodos\ejerciciosMetodos\Notas\bin\Debug\netcoreapp2.1\Notas.dll
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\ejerciciosMetodos\ejerciciosMetodos\Notas\bin\Debug\netcoreapp2.1\Notas.pdb
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\ejerciciosMetodos\ejerciciosMetodos\Notas\obj\Debug\netcoreapp2.1\Notas.dll
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\ejerciciosMetodos\ejerciciosMetodos\Notas\obj\Debug\netcoreapp2.1\Notas.pdb
