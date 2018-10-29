@@ -6,12 +6,12 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.1": {
-      "ejerciciosMetodos/1.0.0": {
+      "ejerciciosArrays/1.0.0": {
         "dependencies": {
           "Metodos": "1.0.0"
         },
         "runtime": {
-          "ejerciciosMetodos.dll": {}
+          "ejerciciosArrays.dll": {}
         }
       },
       "Metodos/1.0.0": {
@@ -22,7 +22,7 @@
     }
   },
   "libraries": {
-    "ejerciciosMetodos/1.0.0": {
+    "ejerciciosArrays/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

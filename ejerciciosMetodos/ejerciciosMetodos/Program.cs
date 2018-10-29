@@ -1,6 +1,6 @@
 ﻿using System;
-using notas;
-namespace ejerciciosMetodos
+using Metodos;
+namespace ejercicioMetodos
 {
     class Program
     {
@@ -21,7 +21,7 @@ namespace ejerciciosMetodos
 7. Implementar un método que calcule la potencia de un número, ingresando por teclado la
     base y el exponente.
 8. Implementar el ejercicio anterior usando recursividad.";
-            Metodos metodo = new Metodos();
+            MetodosRecursividad metodo = new MetodosRecursividad();
             Console.WriteLine(menu);
             Console.WriteLine("Ingrese el item del ejercicio a revisar:");
             int ejercicio = Convert.ToInt16(Console.ReadLine());
@@ -43,7 +43,7 @@ namespace ejerciciosMetodos
                         }
 
                     }
-                    int promedio = metodo.promedioNotas(puntuaciones);
+                    int promedio = metodo.PromedioNotas(puntuaciones);
                     Console.WriteLine($"El promedio es: {promedio}");
                     metodo.EstaAprobado(promedio);
 
@@ -87,7 +87,13 @@ namespace ejerciciosMetodos
                     // 3) FACTORIAL SIN RECURSIVIDAD
                     Console.WriteLine("Ingrese numero a calcular: ");
                     int numero3 = Convert.ToInt32(Console.ReadLine());
-
+                    if(numero3 < 0) { goto case 3; }
+                    int resFactorial = 1;
+                    for(int i = 1; i <= numero3; i++)
+                    {
+                        resFactorial = resFactorial * i;
+                    }
+                    Console.WriteLine($"El factorial de {numero3} es: {resFactorial}");
 
                     Console.WriteLine("¿Desea salir? Si=1/No=2");
                     salir = Convert.ToInt16(Console.ReadLine());
@@ -97,15 +103,8 @@ namespace ejerciciosMetodos
                     //4) FACTORIAL
                     Console.WriteLine("Ingrese numero a calcular: ");
                     int numero4 = Convert.ToInt32(Console.ReadLine());
-                    if (numero4 > 0)
-                    {
-                        Console.WriteLine($"El factorial de {numero4} es: {factorial(numero4)}");
-                        int factorial(int n)
-                        {
-                            if (n == 1) { return 1; }
-                            return n * factorial(n - 1);
-                        }
-                    }
+                    if (numero4 < 0) { goto case 4; }
+                    Console.WriteLine($"El factorial de {numero4} es: {metodo.Factorial(numero4)}");
 
                     Console.WriteLine("¿Desea salir? Si=1/No=2");
                     salir = Convert.ToInt16(Console.ReadLine());
@@ -125,7 +124,18 @@ namespace ejerciciosMetodos
 
                 case 6:
                     // 6) SUMA DE NUMEROS ANTERIORES SIN USAR RECURSIVIDAD
+                    Console.WriteLine("Ingrese numero a calcular: ");
+                    uint numero6 = Convert.ToUInt32(Console.ReadLine());
+                    int resSuma = 0;
+                    for(int i = 1; i < numero6; i++)
+                    {
+                        resSuma = resSuma + i;
+                    }
+                    Console.WriteLine($"La suma de numeros anteriores a {numero6} es: {resSuma}");
 
+                    Console.WriteLine("¿Desea salir? Si=1/No=2");
+                    salir = Convert.ToInt16(Console.ReadLine());
+                    if (salir == 2) { goto case 6; }
                     break;
                 case 7:
                     //7) POTENCIA DE UN NUMERO INGRESANDO BASE Y EXPONENTE
@@ -152,7 +162,7 @@ namespace ejerciciosMetodos
                     int numeroBase2 = Convert.ToInt32(Console.ReadLine());
                     Console.WriteLine("Ingrese exponente: ");
                     int exponente2 = Convert.ToInt32(Console.ReadLine());
-                    Console.WriteLine($"La potencia de base {numeroBase2} elevado a {exponente2} es: {metodo.potenciaNumero(numeroBase2, exponente2)}");
+                    Console.WriteLine($"La potencia de base {numeroBase2} elevado a {exponente2} es: {metodo.PotenciaNumero(numeroBase2, exponente2)}");
 
                     Console.WriteLine("¿Desea salir? Si=1/No=2");
                     salir = Convert.ToInt16(Console.ReadLine());

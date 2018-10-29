@@ -208,14 +208,14 @@
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       },
-      "Notas/1.0.0": {
+      "Metodos/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.1",
         "compile": {
-          "bin/placeholder/Notas.dll": {}
+          "bin/placeholder/Metodos.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Notas.dll": {}
+          "bin/placeholder/Metodos.dll": {}
         }
       }
     }
@@ -684,16 +684,16 @@
         "netstandard.library.nuspec"
       ]
     },
-    "Notas/1.0.0": {
+    "Metodos/1.0.0": {
       "type": "project",
-      "path": "../Notas/Notas.csproj",
-      "msbuildProject": "../Notas/Notas.csproj"
+      "path": "../../../Metodos/Metodos.csproj",
+      "msbuildProject": "../../../Metodos/Metodos.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
-      "Microsoft.NETCore.App >= 2.1.0",
-      "Notas >= 1.0.0"
+      "Metodos >= 1.0.0",
+      "Microsoft.NETCore.App >= 2.1.0"
     ]
   },
   "packageFolders": {
@@ -726,8 +726,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\Cursos libres\\Tecsup\\codiGO\\Back-End\\Tareas\\ejerciciosMetodos\\ejerciciosMetodos\\Notas\\Notas.csproj": {
-              "projectPath": "D:\\Cursos libres\\Tecsup\\codiGO\\Back-End\\Tareas\\ejerciciosMetodos\\ejerciciosMetodos\\Notas\\Notas.csproj"
+            "D:\\Cursos libres\\Tecsup\\codiGO\\Back-End\\Tareas\\Metodos\\Metodos.csproj": {
+              "projectPath": "D:\\Cursos libres\\Tecsup\\codiGO\\Back-End\\Tareas\\Metodos\\Metodos.csproj"
             }
           }
         }

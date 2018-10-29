@@ -1,0 +1,14 @@
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\ejerciciosArrays\ejerciciosArrays\ejerciciosArrays\bin\Debug\netcoreapp2.1\ejerciciosArrays.deps.json
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\ejerciciosArrays\ejerciciosArrays\ejerciciosArrays\bin\Debug\netcoreapp2.1\ejerciciosArrays.runtimeconfig.json
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\ejerciciosArrays\ejerciciosArrays\ejerciciosArrays\bin\Debug\netcoreapp2.1\ejerciciosArrays.runtimeconfig.dev.json
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\ejerciciosArrays\ejerciciosArrays\ejerciciosArrays\bin\Debug\netcoreapp2.1\ejerciciosArrays.dll
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\ejerciciosArrays\ejerciciosArrays\ejerciciosArrays\bin\Debug\netcoreapp2.1\ejerciciosArrays.pdb
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\ejerciciosArrays\ejerciciosArrays\ejerciciosArrays\bin\Debug\netcoreapp2.1\Metodos.dll
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\ejerciciosArrays\ejerciciosArrays\ejerciciosArrays\bin\Debug\netcoreapp2.1\Metodos.pdb
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\ejerciciosArrays\ejerciciosArrays\ejerciciosArrays\obj\Debug\netcoreapp2.1\ejerciciosArrays.csprojAssemblyReference.cache
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\ejerciciosArrays\ejerciciosArrays\ejerciciosArrays\obj\Debug\netcoreapp2.1\ejerciciosArrays.csproj.CoreCompileInputs.cache
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\ejerciciosArrays\ejerciciosArrays\ejerciciosArrays\obj\Debug\netcoreapp2.1\ejerciciosArrays.AssemblyInfoInputs.cache
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\ejerciciosArrays\ejerciciosArrays\ejerciciosArrays\obj\Debug\netcoreapp2.1\ejerciciosArrays.AssemblyInfo.cs
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\ejerciciosArrays\ejerciciosArrays\ejerciciosArrays\obj\Debug\netcoreapp2.1\ejerciciosArrays.csproj.CopyComplete
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\ejerciciosArrays\ejerciciosArrays\ejerciciosArrays\obj\Debug\netcoreapp2.1\ejerciciosArrays.dll
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\ejerciciosArrays\ejerciciosArrays\ejerciciosArrays\obj\Debug\netcoreapp2.1\ejerciciosArrays.pdb
